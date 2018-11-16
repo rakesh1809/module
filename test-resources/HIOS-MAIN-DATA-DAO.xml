@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+<!-- 
+[STANDARD_COMPONENT_ID]
+      ,[ISSR_ID]
+      ,[INSRNC_PROD_ID]
+      ,[CREATE_USER_ID]
+      ,[CREATE_DTTIME]
+  FROM [SCIS_DEV].[dbo].[SCIS_STANDARD_COMPONENT_IDENTIFIER] -->
+
+ 
+</dataset>
